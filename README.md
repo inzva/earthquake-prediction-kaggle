@@ -1,6 +1,11 @@
 # Kaggle LANL Earthquake Prediction Challenge Project
 inzva AI Projects #2 - Earthquake Prediction Kaggle Challenge [1]
 
+## Project Team Members
+- Eylül Yalçınkaya (GitHub: eylulyalcinkaya)
+- Cemre Efe Karakaş (GitHub: cemreefe)
+- Macit Giray Gökırmak (GitHub: giraygokirmak)
+
 ## Project Description
 
 In this project, we try and predict the remaining time until the next earthquake occurs in laboratory conditions using a model proposed and used by Andrew Ng in his coursera course deeplearning.ai specialization, sequence models part [2], for detection of trigger words such as "hello google" for Google or "你好百度" for Baidu etc. in smart devices using acoustic voice data as input. This model has a binary output, we will modify it to out a float, representing the time until the next earthquake, using the acoustic data detected by the devices in the laboratory experiment.
